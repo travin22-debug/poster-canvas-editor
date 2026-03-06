@@ -3,7 +3,7 @@
 A high-performance, web-based design tool built with Next.js and Fabric.js.
 
 ## 🚀 Setup Instructions
-1. **Clone the repo:** `git clone <your-repo-url>`
+1. **Clone the repo:** `git clone [(https://github.com/travin22-debug/poster-canvas-editor.git)](https://github.com/travin22-debug/poster-canvas-editor.git)`
 2. **Install dependencies:** `npm install`
 3. **Run development server:** `npm run dev`
 4. **Open browser:** Navigate to `http://localhost:3000`
